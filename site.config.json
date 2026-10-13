@@ -1,0 +1,17 @@
+{
+  "name": "禾光思想",
+  "url": "https://hgthink.cn",
+  "tagline": "在关键时刻，恢复判断的清晰度。",
+  "description": "禾光思想研究创始人、高压决策与自我观察。阅读原创文章，沿着问题寻找判断的清晰度。",
+  "officialSite": "https://hgthinkcenter.com/",
+  "wechatName": "禾光思想",
+  "wechatQr": null,
+  "featured": "impossible-triangles",
+  "topics": [
+    { "slug": "decision-system", "name": "决策系统", "english": "DECISION", "question": "我是在思考，还是在防御？高压如何悄悄改变判断？" },
+    { "slug": "founder-research", "name": "Founder 研究", "english": "FOUNDER", "question": "个人长板如何变成公司能力？又在何时变成组织的限制？" },
+    { "slug": "tianyan", "name": "天眼模型", "english": "PATTERN", "question": "我在反复经历什么？怎样看见熟悉的惯性？" },
+    { "slug": "everyday-reading", "name": "日常阅读", "english": "LIFE", "question": "从书、电影与生活里，看见身份、选择与人的处境。" },
+    { "slug": "clarity", "name": "清醒空间", "english": "CLARITY", "question": "在一个重要决定前，先看清事实、判断和恐惧。" }
+  ]
+}
